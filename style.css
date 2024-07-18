@@ -1,0 +1,131 @@
+.navbar{
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  
+}
+body{
+  min-height: 100vh;
+}
+.my-image{
+  width:50px;
+  height: 50px;
+  border-radius:50%;
+ border: 2px solid #7843E9;
+  
+}
+.nav-item{
+  /* padding-bottom: 0.5rem; */
+  width:inherit;
+  font-weight: bold;
+  margin-left:2rem;
+  transition:0.3s;
+ 
+}
+.nav-item:hover{
+ 
+  color: #7843E9;
+}
+.heading{
+  border-bottom:4px solid #7843E9;
+    padding-bottom: 0.5rem !important;
+    margin-bottom: 2rem;
+}
+.about{
+  width: 100%;
+  height: 100vh;
+  
+  background-color: rgb(228, 234, 238);
+  text-align: center;
+}
+.about1{
+  width: 80%;
+  margin: auto;
+  padding-top: 4rem;
+}
+.name{
+  font-weight: bold;
+  font-size: 2.5rem;
+  letter-spacing: 3px !important;
+}
+.aboutSection{
+  font-size: 1.3rem;
+
+}
+ .project-btn{
+  height: 50px !important;
+  width: 200px !important;
+  color: white;
+  background-color: #7843E9 !important;
+ }
+.aboutme2{
+  /* height: 100vh; */
+}
+.Paragraph{
+  text-align: center;
+  
+}
+.contact{
+  height:auto;
+  background-color: rgb(228, 234, 238);
+}
+.form{
+  width: 70%;
+  margin: auto;
+}
+.underline{
+  text-decoration: underline;
+}
+
+.skills{
+  width:70%;
+  margin: auto;
+}
+.skill2{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+
+}
+.skl{
+  background-color: rgb(228, 234, 238) ;
+  text-align: center;
+  width: auto;
+  border-radius :4px;
+  padding: 0.4rem;
+  margin: 0.5rem;
+  font-weight:0.5rem;
+  letter-spacing:0.1rem;
+  font-weight:500;
+}
+.project{
+ 
+}
+.code{
+  background-color: #7843E9 !important;
+  color: white !important;
+}
+footer{
+  position: sticky;
+  top: 100%;
+  color: rgb(79, 73, 73);
+  background-color: rgb(12, 11, 11);
+ 
+}
+.footer-about{
+  width: 90%;
+  margin: auto;
+  margin-top: 4rem !important;
+  padding-bottom: 4rem !important;
+}
+.s-item{
+  padding: 0;
+  margin: 0;
+}
+.icon{
+  font-size: x-large;
+  color: white;
+}
+.middle{
+  padding-bottom: 1rem;
+ border-bottom:2px solid #7843E9;
+}
